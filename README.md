@@ -1,11 +1,6 @@
 # Jordan Wages Github
 Hi! I’m a computer engineer from Rochester, MN. I like pith. I also like the Internet. C# 'til I die, baby.
 
-## Trophies
-I saw these on someone's profile and thought they were neat so here are mine.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wagesj45&theme=darkhub&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Projects
 I'm a big fan of open source software and I've got a few projects here that you might find useful.
 
@@ -18,17 +13,5 @@ I'm a big fan of open source software and I've got a few projects here that you 
   - butterflow-ui is a graphical front end for interacting with the butterflow command line application in Windows.
 * [MimeTypeList](https://github.com/wagesj45/MimeTypeList)
   - Provides a hard-coded collection of file extension and mime type mapping. This project was inspired by samuelneff/MimeTypeMap. This project uses the data from that project to create classes with members for each extension and mime type for lookups.
-<!--
-**wagesj45/wagesj45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [MercuryAlloy](https://github.com/wagesj45/MimeTypeList)
+  - Automates the build process for the Mercury browser, a compiler optimized fork of Firefox.
