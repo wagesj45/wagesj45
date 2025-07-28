@@ -13,5 +13,3 @@ I'm a big fan of open source software and I've got a few projects here that you 
   - butterflow-ui is a graphical front end for interacting with the butterflow command line application in Windows.
 * [MimeTypeList](https://github.com/wagesj45/MimeTypeList)
   - Provides a hard-coded collection of file extension and mime type mapping. This project was inspired by samuelneff/MimeTypeMap. This project uses the data from that project to create classes with members for each extension and mime type for lookups.
-* [MercuryAlloy](https://github.com/wagesj45/MimeTypeList)
-  - Automates the build process for the Mercury browser, a compiler optimized fork of Firefox.
